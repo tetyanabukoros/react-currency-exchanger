@@ -1,3 +1,3 @@
 # react-currency-exchanger
 
-[Demo](https://github.com/tetyanabukoros/react-currency-exchanger)
+[Demo](https://tetyanabukoros.github.io/react-currency-exchanger/)
